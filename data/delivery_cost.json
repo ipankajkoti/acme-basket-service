@@ -1,0 +1,16 @@
+{
+    "deliveryCosts": [
+        {
+            "orderAmountGreaterThan": 50,
+            "cost": 2.95
+        },
+        {
+            "orderAmountGreaterThan": 90,
+            "cost": 0
+        },
+        {
+            "orderAmountGreaterThan": 0,
+            "cost": 4.95
+        }
+    ]
+}
