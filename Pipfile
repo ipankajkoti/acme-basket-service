@@ -11,6 +11,9 @@ flake8 = "~=3.9.0"
 autopep8 = "~=1.5.6"
 isort = "~=5.8.0"
 mypy = "~=0.910"
+pytest = "~=7.0.1"
+pytest-mock = "~=3.7.0"
+coverage = "~=6.3.1"
 
 [packages]
 
